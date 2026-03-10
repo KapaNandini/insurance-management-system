@@ -23,7 +23,7 @@ A full stack web application for calculating product insurance based on price an
 ## Project Structure
 
 backend/ → .NET Core API  
-frontend/ → React user interface
+frontend/ → HTML Insurance calculator UI
 
 ## How to Run the Project
 
@@ -34,3 +34,4 @@ frontend/ → React user interface
 ### Frontend
 1. Open frontend folder
 2. Run:
+
