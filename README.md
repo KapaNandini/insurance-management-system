@@ -1,15 +1,36 @@
 # Insurance Management System
 
-This is a full stack project for calculating product insurance.
+A full stack web application for calculating product insurance based on price and product type.
 
-Technologies Used
+## Features
+- Insurance calculation based on product price
+- Additional insurance for smartphones and laptops
+- Order insurance calculation
+- REST API using .NET Core
+- Modern React user interface
+
+## Technologies Used
+
+### Frontend
 - React.js
-- .NET Core API
-- JWT Authentication
-- PostgreSQL
+- Axios
+- Tailwind CSS
 
-Features
-- Insurance calculator
-- Order insurance
-- Admin panel
-- Modern UI dashboard
+### Backend
+- .NET Core Web API
+- C#
+
+## Project Structure
+
+backend/ → .NET Core API  
+frontend/ → React user interface
+
+## How to Run the Project
+
+### Backend
+1. Open backend folder
+2. Run the API
+
+### Frontend
+1. Open frontend folder
+2. Run:
