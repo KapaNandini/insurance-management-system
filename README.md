@@ -36,7 +36,8 @@ frontend/ → HTML Insurance calculator UI
 2. Run:
 ## Project Demo
 
-![Calculator Screenshot](screenshots/calculator.png)   
+![Calculator Screenshot](calculator.png)   
+
 
 
 
